@@ -2,6 +2,8 @@
 
 Local speech recognition using Whisper AI with push-to-talk support for Hyprland.
 
+![Demo](example.gif)
+
 ## Installation
 
 ```bash
